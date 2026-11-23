@@ -1,0 +1,7 @@
+const characterActions = {
+  FETCH_INIT: 'CHARACTERS_FETCH_INIT',
+  FETCH_SUCCESS: 'CHARACTERS_FETCH_SUCCESS',
+  FETCH_FAILURE: 'CHARACTERS_FETCH_FAILURE',
+};
+
+export default characterActions;
